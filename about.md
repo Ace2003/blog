@@ -3,7 +3,9 @@ layout: page
 title: 关于我 
 ---
 
-一个长沙市实验中学的高三学生。
+高三学生。
+
+以下是原作者的话。
 
 <h2> 我们的博客 </h2>  
 
@@ -17,13 +19,6 @@ title: 关于我
 有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
 
 博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
-
-<h3> 搭建博客遇到了问题解法方法 </h3>  
-
-查看 [技术支持](https://leopardpan.cn/support/) 需求帮助
-
-博客模板会一直持续更新，请持续关注我，谢谢~
 
 {% include comments.html %}
 
