@@ -5,7 +5,7 @@ title: 关于我
 
 高三学生。
 
-你可以查看我的[废话胶囊](https://ace2003.github.io/bb)
+你可以查看我的[废话垃圾桶](https://ace2003.github.io/bb)
 
 以下是原作者的话。
 
